@@ -34,10 +34,10 @@ public class LoginPage {
 		signInTab.click();
 	}
 	
-	public void sendDataIntoUsernameTextBox()
-	{
-		username.sendKeys("paulwalker_002");
-	}
+//	public void sendDataIntoUsernameTextBox()
+//	{
+//		username.sendKeys("paulwalker_002");
+//	}
 	
 	public void sendPasswordIntoPasswordTextBox()
 	{
