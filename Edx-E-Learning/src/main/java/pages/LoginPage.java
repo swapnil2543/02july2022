@@ -39,10 +39,10 @@ public class LoginPage {
 //		username.sendKeys("paulwalker_002");
 //	}
 	
-	public void sendPasswordIntoPasswordTextBox()
-	{
-		password.sendKeys("xyz@1234");
-	}
+//	public void sendPasswordIntoPasswordTextBox()
+//	{
+//		password.sendKeys("xyz@1234");
+//	}
 	public void clickOnSignInButton()
 	{
 		signInButton.click();
